@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  cv-auto-applier:
+    build: .
+    container_name: cv_auto_applier_daemon
+    restart: unless-stopped
+    volumes:
+      # Mount environment file so changes can be made without rebuilding
+      - ./.env:/app/.env
+      # Mount CV profile so you can edit your experiences/preferences dynamically
+      - ./cv-profile.json:/app/cv-profile.json
+      # Mount cookies folder to update session credentials
+      - ./cookies:/app/cookies
+      # Mount logs/screenshots to easily inspect browser dry-runs and responses
+      - ./logs:/app/logs
+    environment:
+      - NODE_ENV=production
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"

@@ -1,0 +1,77 @@
+{
+  "personalInfo": {
+    "fullName": "Gus Dev",
+    "email": "gus.dev@example.com",
+    "phone": "+51999999999",
+    "location": "Lima, Peru",
+    "github": "https://github.com/gusdev",
+    "linkedin": "https://linkedin.com/in/gusdev",
+    "website": "https://gusdev.com"
+  },
+  "professionalSummary": "Desarrollador Fullstack apasionado con experiencia en la construcción de aplicaciones web escalables y robustas. Especializado en JavaScript/TypeScript, React, Node.js y bases de datos relacionales y no relacionales. Con enfoque en buenas prácticas de programación, arquitectura limpia y optimización de rendimiento.",
+  "skills": {
+    "programmingLanguages": ["JavaScript", "TypeScript", "Python", "SQL", "HTML5", "CSS3"],
+    "frontend": ["React", "Next.js", "Redux", "Tailwind CSS", "HTML", "CSS"],
+    "backend": ["Node.js", "Express", "NestJS", "FastAPI"],
+    "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
+    "toolsAndDevOps": ["Docker", "Git", "GitHub Actions", "AWS", "Linux", "Nginx"],
+    "softSkills": ["Trabajo en equipo", "Resolución de problemas", "Metodologías Ágiles (Scrum)"]
+  },
+  "workExperience": [
+    {
+      "role": "Desarrollador Fullstack",
+      "company": "Tech Solutions",
+      "startDate": "2024-01",
+      "endDate": "Presente",
+      "description": "Desarrollo y mantenimiento de plataformas web de comercio electrónico y paneles administrativos usando React, Next.js y Node.js. Implementación de microservicios en Docker y optimización de consultas SQL en PostgreSQL.",
+      "achievements": [
+        "Reduje el tiempo de carga del frontend en un 30% mediante optimización de imágenes y code-splitting.",
+        "Lideré la migración de una base de datos legacy MySQL a PostgreSQL sin pérdida de datos."
+      ]
+    },
+    {
+      "role": "Desarrollador Frontend",
+      "company": "Digital Agency",
+      "startDate": "2022-03",
+      "endDate": "2023-12",
+      "description": "Creación de interfaces responsivas y accesibles para clientes internacionales usando React y Tailwind CSS.",
+      "achievements": [
+        "Desarrollé más de 15 sitios web responsivos y adaptados a SEO.",
+        "Colaboré estrechamente con diseñadores de UI/UX para implementar sistemas de diseño robustos."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachiller en Ingeniería de Sistemas",
+      "institution": "Universidad Nacional",
+      "startDate": "2017",
+      "endDate": "2022"
+    }
+  ],
+  "preferences": {
+    "desiredSalaryPEN": 4500,
+    "desiredSalaryUSD": 1200,
+    "remotePreference": "Remoto o Híbrido",
+    "workAuthorization": "Autorizado para trabajar en Perú sin patrocinio",
+    "willingToRelocate": false,
+    "driversLicense": "No",
+    "noticePeriodDays": 15
+  },
+  "technologyExperienceYears": {
+    "JavaScript": 4,
+    "TypeScript": 3,
+    "React": 4,
+    "Node.js": 3,
+    "Python": 2,
+    "Docker": 2,
+    "PostgreSQL": 3,
+    "CSS": 4,
+    "Git": 4
+  },
+  "frequentQuestionsAnswers": {
+    "pretensionSalarial": "Mi pretensión salarial es de aproximadamente 4500 soles netos mensuales (o equivalente en dólares), negociable según beneficios y modalidad.",
+    "porQueContratarte": "Soy un desarrollador comprometido con la calidad de código, proactivo y con facilidad de adaptación a nuevas tecnologías y dinámicas de equipo. Aporto valor inmediato gracias a mi experiencia fullstack.",
+    "modalidadPreferencia": "Prefiero la modalidad remota o híbrida en Lima."
+  }
+}

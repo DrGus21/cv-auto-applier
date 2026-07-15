@@ -1,0 +1,68 @@
+[
+  {
+    "name": "extrfr",
+    "value": "https://www.computrabajo.com/",
+    "domain": ".pe.computrabajo.com",
+    "path": "/",
+    "expires": 1784218732,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "g_state",
+    "value": "{\"i_l\":0,\"i_ll\":1784132333464,\"i_b\":\"2nErfvJ/Hn3lXFRJUC9ZiMmRQLEzSVkbu6+QdwbZfSI\",\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1784132333464}",
+    "domain": ".pe.computrabajo.com",
+    "path": "/",
+    "expires": 1799684333,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "lout",
+    "value": "true",
+    "domain": ".computrabajo.com",
+    "path": "/",
+    "expires": 1784218736,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "nca",
+    "value": "cvp=100&cdet=False&cdst=False&cdft=True&hcl=True&lcvu=0001-01-01 00:00:00&cdvp=False&cddt=False",
+    "domain": ".pe.computrabajo.com",
+    "path": "/",
+    "expires": 1799684344,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ncac",
+    "value": "value=F1915CB2332982E4032DF4A89D478EF8815AEBE26F8E309A",
+    "domain": ".pe.computrabajo.com",
+    "path": "/",
+    "expires": 1799684344,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "trl",
+    "value": "702DCEF6DD542465F553FC2C01A63156FFA6BC79793D297777A8575C0C581CB6F44E6742D0604A3BE62660A54864C213",
+    "domain": ".pe.computrabajo.com",
+    "path": "/",
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "uca",
+    "value": "i=0B0EECA32FA2BE4361373E686DCF3405&c=DB670121685B31D561373E686DCF3405&e=7C1C2B87C1833841C249E1C5F0F294127B863038BC4DB9A5100C5A69BAFD93D5&p=18361CC7337CB7EDB3DB2F8DC26023&n=Oscar Timoteo&t=logos/candidates/2026/04/07/1601084111621thumbnail.jpg&hc=false&nm=0",
+    "domain": ".pe.computrabajo.com",
+    "path": "/",
+    "expires": 1799684344,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  }
+]

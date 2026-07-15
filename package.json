@@ -1,0 +1,25 @@
+{
+  "name": "cv-auto-applier",
+  "version": "1.0.0",
+  "description": "Fully automated job application bot for InfoJobs, CompuTrabajo, and Bumeran with Gemini AI integration.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dry-run": "cross-env DRY_RUN=true ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@google/genai": "^2.11.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.45.0",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "cross-env": "^7.0.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2"
+  }
+}

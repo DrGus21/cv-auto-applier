@@ -1,0 +1,234 @@
+[
+  {
+    "name": "__Secure-3PSID",
+    "value": "g.a000_widFw3c7vfrVnxzkAuJ75gs29WB6bOXD4-H-t8FsFfl7HLyvAVchQqWjBWQkzp229xAqgACgYKAbYSARUSFQHGX2Mi6w3mFDz4vdRDQK9LvMFK8BoVAUF8yKpmrDXvEAMnFkf-feLrh3kJ0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSIDCC",
+    "value": "AKEyXzXu-IyefSHpNfhPb-oURX5srWtMrwsveFDsaHpq8Dy9JuyO7tR1N93NyL-ac28C9OsVhpc",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799684453,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-3PSIDTS",
+    "value": "sidts-CjIBPWEu2d2lsfySYchHXQJDFtYhRdDO6usK9Wa_lNZlYqbESkttQWPbjVGSPRW87BMyIBAA",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799684351,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__Secure-BUCKET",
+    "value": "CKwD",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019367,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "__Secure-STRP",
+    "value": "ANmZwa2aAsFClq2hcPnYwCuhq73-5YKgIiVMZWcPT0BDArIMWxsFpQn5kWPcKajq4tn3UlFf3nhuHnqDZ0l1gBKO_lAyUxeFQg",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1784132738,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "ACCOUNT_CHOOSER",
+    "value": "AFx_qI5zEdCybvzDJHS6I_YQkbtvszf-plR6LT9Lb0c6UCCGEjQVPlpk_GqAo4YXThIOOJr84FGctJUGJnAQDFOGJaGM3cVdglx18oO3dUSTiTONIjIFbp0ftYeaaM3xSFy8rGgMr_cL",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "AEC",
+    "value": "AdJVEauJ5usj0zuX1B_udWtBpXsi-UrADb67hdYX4MTx9hr47Z7rFp5AbHI",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019367,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "APISID",
+    "value": "50JtNeZtYW7bpMOS/AX6jJbin1jAIOvnQ4",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "frpo-cki",
+    "value": "\"8abbb80a1d689515\"",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1784132562,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "g_state",
+    "value": "{\"i_l\":0,\"i_ll\":1784132449453,\"i_e\":{\"enable_itp_optimization\":24},\"i_et\":1784132449453}",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1799684454,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "HSID",
+    "value": "A6jhuA_adLacN8YT7",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": true,
+    "secure": false
+  },
+  {
+    "name": "LSID",
+    "value": "o.chromewebstore.google.com|o.mail.google.com|s.PE|s.youtube:g.a000_widF_2xFao_wXQS9G-vytmwI7OiyVhZhSW14zcoe3OESxvR10R8KC0xoy76exJuHGTieQACgYKAQ0SARUSFQHGX2Mi-W_9K0riwUm8GDVxxTivVBoVAUF8yKpOm14XlGnaPhz_3jfbDSC70076",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1799517981,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "NID",
+    "value": "533=PZcId5oFi0ML1jySQFRZPJ1rL93-DpOeZT6yNwwEMOELuCW9CmtsawrDbEfASVwmE0ey8pUaBAziFLJpTJy1vSM1dUPAlH69sG9CQWAFeCr0T2-xTbGn3JNjzYDyVqSJ_bjIAeZVPZyphzup1MqKawUfEbfm0X5SlgG5UcmifGyoqZ_rl__rid2CVc2c19L743750iWf9cZ9n4nLhuj29ejjQJZMeH9n4cnVsaJ5lUumdvHs03o1O1ra_L2ZZKtDMoIE21gVuN3G5pc_lMBI9v1dPFvgV-ad5KZlMDvHbAnCa116Bkx6pD7ydBVlxA7FHeZ4JY_ae2Ssw9wqMEl1w6lUaMwBjyEuOuU9UDHRr98MQ9V_STKySmVpjelQcaD105j0tB-7bwyfA2UmCRTxFq19Icp_scmlUHx3IkdDWUUFf8mK3snP5RyXy3qawzzSzG1Qui3IFFGz-xScSP7wgXXMlWy_yWOOoRymex-Y1041wLMnNS6NRwR7qgH951dlaY3vNvGYrCvjP3vIcI5DrvuvjzjRy6jpuIU3w3_dlZR31bQ9N_aaNv_C5cU5v6f0AIC7bDsQwhB56JTpDtDbieY6X42xxnEeNqbRd9ZQKfYU5ckxIfLx32yOch_x4q2J561Pguu4YGyDSjuZ3_BpPOu2noQUetoNTLc2F3H-KdRijMJ9L--rMHx81sCdAm07BJfjj9DjSUdx8LZat4E4INdE5FKq3gUSZSdNV976AKcEKrG9Se9fj9U2UHoV1J3yLq858i8ML1ClCvg",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799684322,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "OTZ",
+    "value": "8686056_72_76_104100_72_446760",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1786059377,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "refresh_token_auth_postulante",
+    "value": "c4fa5b459a00d6c93bdc4c12a2a4abaca0d796733a3e6c27a9395570b7be11c909fa425c5391488190102654608f1d5a7caa0340bdc6afcd1b4871c85970fe260659a7c422625916aff0f27c91bb0b0da4c4db2dec2f6058b04007f0c0f05170745b0e3a29f20c16a2a7f2ae30078f19f73b7a88d7d2b89a14bda23bee7609440ea5fa3cc30bbc179dd97e96c0a3feca717cc6fcc00eabd2d6ff0cbbee54979312ed88ec6b085ae8a348e0ee6e364943ae82b0f9b32d80ec7b66d4e2545254f2a39e6785437bf7d7df52f05b36414b94a989c6910d9bea2c14d366e2a2b4dbe295f481ec2afd20b5acc68608f14b97e0a98fe78db4a911f6f79dbf76cb4d2b96d6bd28852d5f2e64056ea0de00b5527bb84fd571d9930ce670649a41496d4e21b0ef67fad666412f4e58cc142f099ed8115b9b64ef2d74f37dbd066b92dc63099f56a59e6cd164ffef50c78db88430f3a69cec61693428292468edf306eebfd4277efe09dde44892fe5757acf18d84bcc014a92978444e3c643f8409224033063b3148819f2f35f15114633d308a7a7e0b152ebbf2e2840205eab7830b45724cdcf948e138d4d638cbc539d498d7f36d39ec36e673d5ad4f8c549af9610bfc0ea15e132e63bff7f00ef1f3e435f9f42674a27a91a951159d496a6fc0736e2ce0b5aaf76eca069c7b8e6c22d0173f78b913c171d041c8fc5126a44d4cf4dcaadc79332fcee988a0d25c660b073405cb912dc450f638676b6d4f9dbb40bb58c152b68ae163f18a6342bf6939d19bbd33685b00b33c4c3ea0e16c8677788cd589f21e7a27d0643f2e8c71d88e3acb826b567bd2cad44b89ca33b4f55e7eb62bf18b17462f3202c88e9607480d49e54dda5303be01e72d937f3a7ab5d618104938474a4e270eea63a9801428b2ebaf077d4e4eaf755ef0c05dc73e35266713487d4296d7589afa684e1114a3933ade7cbac4ae7ce991dae67418055168150308e8bbb5ecdfd2e316d305c9d95555af781075590ec587014acdb119a567ed62c3a14700f7eaad7a4d1cdd2a4b78577bd4251ad4639e6ad7b43b4b0c21184f9e138f7e557c16eefed8c0022b64ecb4d2c894a2824165940fbfd01b08c8dd74445aa88177b36f291c078fef7cc3c9969545cfdeb8d761a3b3a487fcdd467ac7773011b5",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1791822054,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "registro_actividad",
+    "value": "1062658455",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1784218855,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "SAPISID",
+    "value": "wt_as2-Fc-h7KWmR/A2AqQ2TEH2mfTKbqG",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "SEARCH_SAMESITE",
+    "value": "CgQIoaEB",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019915,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Strict"
+  },
+  {
+    "name": "SID",
+    "value": "g.a000_widFw3c7vfrVnxzkAuJ75gs29WB6bOXD4-H-t8FsFfl7HLyglLfu3AzdeOsi7K0Vz3E7AACgYKAbMSARUSFQHGX2MicXKJmkXSkL0iyBOk9Zp9fxoVAUF8yKpIvTHnEsTCNpVoDazp_IbN0076",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "SIDCC",
+    "value": "AKEyXzWDp4flW4dJDqMhyYupaYUxOrUCNce3itDgwyvfUnvCuc6HS357nBWYLBlIJtRwiIlUBA",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799684453,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "SMSV",
+    "value": "ADHTe-AgQFxH8YF1tRmIANQKCJr5yHZnVi9aWwSF8YNYp7wxNrwidG7DpalPs06OXGXcx5bh_b12vgToI1XqTWjxWpAvOQcsuqJglGbcSrcWskX3UjIB9jk",
+    "domain": "accounts.google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "SSID",
+    "value": "Ag7D2jWaFo7jIXvHD",
+    "domain": ".google.com",
+    "path": "/",
+    "expires": 1799019427,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "token_auth_postulante",
+    "value": "bmfa842ef4a445a9b662ffd263779b49e0c075ddfc6f2608d07c1db13668fd2471985b3d0bac2cdeed14b4624143b04349a8a7c86609334bb107f001179885fb23b9b873bb5db78dea76402e3869d1849c818e0daaf1c5108eb19d6d0eb59f88e4cdfefef4a0384862ce6f45e9cce436641ca7166b0d9ac5e4a5d666ce29fa75133cae83e7d2fb932fad9363877d8f48d3ede3af9bdbc59819cf1051dfbed43771134bde48a8202c8f1d3657d868bf05259a7bfe264bcf33c5b9a6757de2f27471f84a2c916cd2396fa0f936fb8e79701c4ed988d266cda9754983b7045ff2c0cfbb4fc779b995d140971c019e2d391a0e9731ade469fd1946586654d890a63e61525aa3732a6f4554512f469ed4af6d55ffff03bbf1b07ebf5e19df2097a2619047ec40065c8a2fa693eb946f99e58e24abad10f7e877c7ad3f47285dbfafc2d85880882ce9b24f60da2172d811b877dacb37017dfb83ae1752a359a4ce0a046d34fe3931c12f07cfd89ec44d32d9b26156bd42647bf26f898942d2ab6b7b87ca53e2db009135fd8629532fe53abacaf40bd140a9c0265920755ad122cff90329d386bca39acdc6fe78495907b31b59ae51df810ed255eea1e15fbdbebc6a5d28ce05823d0337d45d9cbe7fc348ec5717f028b1896bcadbb767dade25d9e8116c6c4cedb025d923b18374609de02dd5d66d6c2bbd404e798f2390690e21237a0d1a9733ed2432022ad970baf805d2ae0336a8adabe350fe017526ea61ad9ff323fa3297984df83f29429991639dc13e504a6a1d020cfb44113f178038deb26e86a7a70321466deddeb4f4ce58da73b56288e7f55c9ebaf5bbb2c9a801009d13a88c85b988f1b4cdec83dd60e645765f31a594ab54078767c008cad833b46036b5055560ea37f5dbd97c259a42a760f3565f4405ec19b25c29531444bfc85e3cac7aa0d2e53f93ddd52703d41f4979b6decbd1cec7b4b63ea4fd67ed4fd74719ddcd3be88bdf39b854f9031326d7ff8b874567300084bdedd1aa632913a53851bbaba10018c2975cd6a05e6cd3c7aa79df10aacca202439733f50de610e07fafae",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1791822054,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "token_expiration_auth_postulante_milis",
+    "value": "1784218853820",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1791822054,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "user_session_id",
+    "value": "aefd0f98-e6d6-40af-9c3a-9af18efea49d",
+    "domain": "www.bumeran.com.pe",
+    "path": "/",
+    "expires": 1791822054,
+    "httpOnly": false,
+    "secure": false
+  }
+]
