@@ -1,58 +1,73 @@
 {
   "personalInfo": {
-    "fullName": "Gus Dev",
-    "email": "gus.dev@example.com",
-    "phone": "+51999999999",
+    "fullName": "Oscar Antonio Timoteo Timoteo",
+    "email": "oscartimoteo2020@gmail.com",
+    "phone": "+51938347547",
     "location": "Lima, Peru",
-    "github": "https://github.com/gusdev",
-    "linkedin": "https://linkedin.com/in/gusdev",
-    "website": "https://gusdev.com"
+    "github": "https://github.com/oscartimoteo",
+    "linkedin": "https://linkedin.com/in/oscartimoteo",
+    "website": "https://oscartimoteo.vercel.app/"
   },
-  "professionalSummary": "Desarrollador Fullstack apasionado con experiencia en la construcción de aplicaciones web escalables y robustas. Especializado en JavaScript/TypeScript, React, Node.js y bases de datos relacionales y no relacionales. Con enfoque en buenas prácticas de programación, arquitectura limpia y optimización de rendimiento.",
+  "professionalSummary": "Desarrollador Full Stack y Frontend Lead con sólida trayectoria diseñando y desarrollando ecosistemas educativos digitales complejos (LMS), plataformas e-commerce y aplicaciones móviles inmersivas. Especializado en React (v19), Next.js (v15), React Native (Expo) y TypeScript, integrando soluciones de tiempo real (Socket.io), pasarelas de pago (Culqi), visualización de datos (Chart.js) y gamificación interactiva (Three.js, Framer Motion y Reanimated). Experto en la estructuración y optimización de bases de datos PostgreSQL y flujos de automatización ETL con Python.",
   "skills": {
     "programmingLanguages": ["JavaScript", "TypeScript", "Python", "SQL", "HTML5", "CSS3"],
-    "frontend": ["React", "Next.js", "Redux", "Tailwind CSS", "HTML", "CSS"],
-    "backend": ["Node.js", "Express", "NestJS", "FastAPI"],
-    "databases": ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-    "toolsAndDevOps": ["Docker", "Git", "GitHub Actions", "AWS", "Linux", "Nginx"],
-    "softSkills": ["Trabajo en equipo", "Resolución de problemas", "Metodologías Ágiles (Scrum)"]
+    "frontend": ["React 19", "Next.js 15", "React Native", "Expo (v54)", "Zustand", "React Query", "Socket.io", "Three.js", "Framer Motion", "Reanimated", "Tailwind CSS", "NativeWind", "Chart.js", "ReactBits", "Pixelicons", "Expo Haptics"],
+    "backend": ["Node.js", "NestJS", "Express", "FastAPI"],
+    "databases": ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+    "toolsAndDevOps": ["Docker", "Git", "GitHub Actions", "JWT Authentication", "Culqi Integration", "Figma", "Web Scraping", "Pandas", "Psycopg2", "Bcrypt"],
+    "softSkills": ["Liderazgo técnico", "Trabajo en equipo", "Resolución de problemas complejos", "Comunicación asertiva", "Adaptabilidad y flexibilidad", "Empatía y escucha activa", "Compromiso Social"]
   },
   "workExperience": [
     {
-      "role": "Desarrollador Fullstack",
-      "company": "Tech Solutions",
-      "startDate": "2024-01",
+      "role": "Desarrollador Full Stack y Frontend Lead",
+      "company": "Centro de Capacitación y Desarrollo (CCD)",
+      "startDate": "2025-01",
       "endDate": "Presente",
-      "description": "Desarrollo y mantenimiento de plataformas web de comercio electrónico y paneles administrativos usando React, Next.js y Node.js. Implementación de microservicios en Docker y optimización de consultas SQL en PostgreSQL.",
+      "description": "Liderazgo y desarrollo técnico en proyectos e-learning de alto rendimiento, e-commerce y aplicaciones móviles educativas gamificadas.",
       "achievements": [
-        "Reduje el tiempo de carga del frontend en un 30% mediante optimización de imágenes y code-splitting.",
-        "Lideré la migración de una base de datos legacy MySQL a PostgreSQL sin pérdida de datos."
+        "**Digital College (Web):** Desarrollé un ecosistema educativo interactivo (LMS, suscripciones y panel analítico) con Next.js 14+ y TypeScript. Implementé Zustand para estado global, React Query para caché, Socket.io para notificaciones en tiempo real, y Three.js + Framer Motion para gamificación inmersiva. Rutas protegidas con JWT.",
+        "**Digital College Mobile V2:** Construí la aplicación móvil con React Native, Expo v54 y NativeWind, logrando animaciones a 60fps con Reanimated. Integré pasarela de pagos Culqi para membresías y Expo Haptics para feedback táctil.",
+        "**IAC Capacitación:** Diseñé una plataforma educativa para ingenieros con Next.js y TypeScript, incluyendo un módulo de validación de certificados oficiales mediante códigos únicos y autenticación segura con JWT.",
+        "**CCD E-Learning Platform (Frontend Lead):** Lideré el frontend utilizando React 19 y Next.js 15, integrando reproductor de video personalizado, sistema de evaluaciones inteligentes, generación automática de certificados y paneles interactivos de calificaciones con Chart.js."
       ]
     },
     {
-      "role": "Desarrollador Frontend",
-      "company": "Digital Agency",
-      "startDate": "2022-03",
-      "endDate": "2023-12",
-      "description": "Creación de interfaces responsivas y accesibles para clientes internacionales usando React y Tailwind CSS.",
+      "role": "Soporte Técnico Informático",
+      "company": "I.E. Peru Holanda (Área de Innovación Pedagógica - AIP)",
+      "startDate": "2022-01",
+      "endDate": "2024-12",
+      "description": "Responsable del soporte técnico integral de infraestructura informática, equipamiento multimedia e inventario de licencias.",
       "achievements": [
-        "Desarrollé más de 15 sitios web responsivos y adaptados a SEO.",
-        "Colaboré estrechamente con diseñadores de UI/UX para implementar sistemas de diseño robustos."
+        "Realicé el diagnóstico, reparación y optimización de computadoras, periféricos y herramientas de red.",
+        "Brindé atención directa y capacitación al personal docente y administrativo para resolver incidencias técnicas con herramientas digitales.",
+        "Gestioné con éxito el inventario tecnológico y supervisión de licencias de software de la institución."
       ]
     }
   ],
   "education": [
     {
-      "degree": "Bachiller en Ingeniería de Sistemas",
-      "institution": "Universidad Nacional",
+      "degree": "Ingeniería de Sistemas Computacionales",
+      "institution": "Universidad Privada del Norte (UPN)",
+      "startDate": "2021",
+      "endDate": "2025"
+    },
+    {
+      "degree": "Computación e Informática",
+      "institution": "SENATI",
       "startDate": "2017",
-      "endDate": "2022"
+      "endDate": "2021"
+    },
+    {
+      "degree": "Idioma Inglés (Intermedio)",
+      "institution": "ICPNA",
+      "startDate": "2024",
+      "endDate": "Presente"
     }
   ],
   "preferences": {
     "desiredSalaryPEN": 4500,
     "desiredSalaryUSD": 1200,
-    "remotePreference": "Remoto o Híbrido",
+    "remotePreference": "Híbrido o Remoto",
     "workAuthorization": "Autorizado para trabajar en Perú sin patrocinio",
     "willingToRelocate": false,
     "driversLicense": "No",
@@ -62,16 +77,20 @@
     "JavaScript": 4,
     "TypeScript": 3,
     "React": 4,
+    "Next.js": 2,
+    "React Native": 2,
     "Node.js": 3,
+    "NestJS": 2,
     "Python": 2,
-    "Docker": 2,
     "PostgreSQL": 3,
-    "CSS": 4,
+    "SQL": 4,
+    "Zustand": 2,
+    "Socket.io": 2,
     "Git": 4
   },
   "frequentQuestionsAnswers": {
-    "pretensionSalarial": "Mi pretensión salarial es de aproximadamente 4500 soles netos mensuales (o equivalente en dólares), negociable según beneficios y modalidad.",
-    "porQueContratarte": "Soy un desarrollador comprometido con la calidad de código, proactivo y con facilidad de adaptación a nuevas tecnologías y dinámicas de equipo. Aporto valor inmediato gracias a mi experiencia fullstack.",
-    "modalidadPreferencia": "Prefiero la modalidad remota o híbrida en Lima."
+    "pretensionSalarial": "Mi pretensión salarial es de aproximadamente 4000 a 5000 soles netos mensuales, adaptable según beneficios corporativos y la modalidad de trabajo.",
+    "porQueContratarte": "Soy un desarrollador con formación en Ingeniería de Sistemas y amplia experiencia real construyendo plataformas interactivas complejas (LMS, e-commerce, apps móviles con estética gamer). Domino el ecosistema frontend (React 19, Next.js 15, React Native/Expo, Zustand, React Query) y backend/datos (TypeScript, NestJS, PostgreSQL, Python), aportando código robusto, soluciones en tiempo real y capacidad de liderazgo técnico como Frontend Lead.",
+    "modalidadPreferencia": "Mi preferencia es la modalidad híbrida o remota basada en Lima, Perú."
   }
 }

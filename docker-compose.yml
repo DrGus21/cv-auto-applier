@@ -1,9 +1,9 @@
 version: '3.8'
 
 services:
-  cv-auto-applier:
+  api-scheduler:
     build: .
-    container_name: cv_auto_applier_daemon
+    container_name: api_scheduler_daemon
     restart: unless-stopped
     volumes:
       # Mount environment file so changes can be made without rebuilding
